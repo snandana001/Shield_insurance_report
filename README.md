@@ -75,15 +75,18 @@ The data model connects policy data with customer records, sales channels, and t
 
 ## 🏠 Home Page
 
+<img width="2224" height="1237" alt="Screenshot 2025-07-21 112847" src="https://github.com/user-attachments/assets/f13cb0c0-194b-4ccf-942c-119c1030828b" />
+
  
 
 The landing page allows users to navigate across different analytical views: Overview, Sales Mode, and Age Group Insights.
+
 
 ---
 
 ## 📊 Overview Dashboard
 
-  
+<img width="2212" height="1235" alt="Screenshot 2025-07-21 112629" src="https://github.com/user-attachments/assets/7307eaa5-96c4-4a99-991e-fe436bda4742" />
 
 Presents high-level KPIs such as total revenue, customer count, and monthly trends in an easy-to-read format for decision-makers.
 
@@ -92,14 +95,15 @@ Presents high-level KPIs such as total revenue, customer count, and monthly tren
 ## 📈 Sales Mode Dashboard
 
  
-
+  <img width="2204" height="1261" alt="Screenshot 2025-07-21 112640" src="https://github.com/user-attachments/assets/f0285553-567b-42fd-a470-6abc37cd0e37" />
 Analyzes the performance of each sales channel—online, offline, agent—providing insights into their revenue and customer contributions.
 
 ---
 
 ## 🔢 Age Group Dashboard
 
-  
+  <img width="2219" height="1250" alt="Screenshot 2025-07-21 112653" src="https://github.com/user-attachments/assets/42482b73-cbbd-4292-82aa-b881ab2aeda5" />
+
 
 Focuses on customer behavior by age bracket, including their preferred policies, settlement expectations, and buying channels.
 
