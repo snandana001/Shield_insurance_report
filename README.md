@@ -66,7 +66,8 @@ This project aims to analyze the growth trajectory of Shield Insurance by examin
 
 ## 📋 Data Model Summary
 
-![Data Model] 
+ <img width="1206" height="674" alt="Screenshot 2025-07-21 112515" src="https://github.com/user-attachments/assets/e1b4ed11-f5ad-4640-afa1-8f40d5f9ae1d" />
+
 
 The data model connects policy data with customer records, sales channels, and transactional figures to enable comprehensive reporting.
 
@@ -74,7 +75,7 @@ The data model connects policy data with customer records, sales channels, and t
 
 ## 🏠 Home Page
 
-![Home Page] 
+ 
 
 The landing page allows users to navigate across different analytical views: Overview, Sales Mode, and Age Group Insights.
 
@@ -82,7 +83,7 @@ The landing page allows users to navigate across different analytical views: Ove
 
 ## 📊 Overview Dashboard
 
-![Overview Dashboard] 
+  
 
 Presents high-level KPIs such as total revenue, customer count, and monthly trends in an easy-to-read format for decision-makers.
 
@@ -90,7 +91,7 @@ Presents high-level KPIs such as total revenue, customer count, and monthly tren
 
 ## 📈 Sales Mode Dashboard
 
-![Sales Mode Dashboard] )
+ 
 
 Analyzes the performance of each sales channel—online, offline, agent—providing insights into their revenue and customer contributions.
 
@@ -98,7 +99,7 @@ Analyzes the performance of each sales channel—online, offline, agent—provid
 
 ## 🔢 Age Group Dashboard
 
-![Age Group Dashboard] 
+  
 
 Focuses on customer behavior by age bracket, including their preferred policies, settlement expectations, and buying channels.
 
