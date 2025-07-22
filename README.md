@@ -127,11 +127,11 @@ Focuses on customer behavior by age bracket, including their preferred policies,
 
 ## 📎 Useful Links
 
-### 💼 [LinkedIn Post] 
+### 💼 [LinkedIn Post] https://www.linkedin.com/feed/update/urn:li:ugcPost:7353404052195471360/
 
 ### 📊 [Live Power BI Dashboard] https://app.powerbi.com/groups/me/reports/bb576c64-9234-4097-a5b7-a349b5ef25ff/1d2e1be123c93ffc5b83?experience=power-bi&bookmarkGuid=400dee98efb9512f1e51
 
-### 🖥️ [YouTube Presentation] 
+### 🖥️ [YouTube Presentation] https://youtu.be/Q6_cVWOg1EM
 
 ---
 
